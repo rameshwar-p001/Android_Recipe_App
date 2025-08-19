@@ -49,10 +49,8 @@ It fetches categories from [TheMealDB API](https://www.themealdb.com/) and displ
 ---
 
 ## 📸 Screenshots
+![WhatsApp Image 2025-08-19 at 23 10 17_18b3b042](https://github.com/user-attachments/assets/22d29ffe-f174-4d21-b2cd-ab4af801028d)
 ![WhatsApp Image 2025-08-19 at 23 10 16_c4b603ae](https://github.com/user-attachments/assets/32dec066-09bd-4e09-8dd6-050f6cff45fc)
-![WhatsApp Image 2025-08-19 at 23 10 16_ba9af7f6](https://github.com/user-attachments/assets/2b2ae177-5d8a-45a3-94b4-d7c0ae27c84b)
-
-
 
 ---
 
